@@ -22,29 +22,22 @@ This project is a web application built using React, Vite, and Chakra UI to show
 
 ## Project Structure
 
-github-portfolio-app/
+/github-portfolio-app/
 ├── node_modules/
 ├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── RepositoriesList.jsx
-│   │   ├── RepoDetails.jsx
-│   │   ├── ErrorBoundary.jsx
-│   │   ├── NotFound.jsx
-│   │   └── CreateRepoModal.jsx
-│   ├── App.css
-│   ├── App.jsx
-│   ├── githubAPI.js
-│   ├── index.css
-│   └── main.jsx
-├── eslintrc.cjs
-├── gitignore
-├── index.html
-├── package-lock.json
-├── package.json
-├── README.md
-└── vite.config.js
+└── src/
+├── assets/
+├── components/
+│ ├── RepositoriesList.jsx
+│ ├── RepoDetails.jsx
+│ ├── ErrorBoundary.jsx
+│ ├── NotFound.jsx
+│ └── CreateRepoModal.jsx
+├── App.css
+├── App.jsx
+├── githubAPI.js
+├── index.css
+└── main.jsx
 
 
 ## Features
