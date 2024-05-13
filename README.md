@@ -12,7 +12,11 @@ This project is a web application built using React-Vite to showcase my GitHub r
 
 ## Project Structure
 
+<<<<<<< HEAD
 [Screenshot] github-portfolio-app\src\assets\project-structure.png
+=======
+[Screenshot] https://github.com/oyegaddiel/image-hosting/blob/main/github-portfolio-app-structure.png
+>>>>>>> 1571b8a57b587ff5b51c0f55c6bed63bc47377cf
 
 ## Features
 
