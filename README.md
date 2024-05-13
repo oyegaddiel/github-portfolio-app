@@ -60,7 +60,7 @@ This project is a web application built using React-Vite to showcase my GitHub r
 
 ## Contributing
 
-While this project is currently in progress, contributions are welcome! 
+Contributions are welcome! 
 Please, feel free to open issues or pull requests to suggest improvements, report bugs, or add new features.
 Thank you.
 
